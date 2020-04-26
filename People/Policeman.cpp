@@ -7,7 +7,7 @@
 
 #include "Policeman.h"
 
- Policeman::Policeman(const std::string& name) : Person(name) {}
+ Policeman::Policeman(const char * name) : Person(name) {}
 
 bool Policeman::canDrive() const {
      return true;

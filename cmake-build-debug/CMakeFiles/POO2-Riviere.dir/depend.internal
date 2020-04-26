@@ -22,15 +22,29 @@ CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Container.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Controller.cpp
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Controller.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Daughter.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Mother.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Parent.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Son.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Policeman.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Robber.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Child.cpp.obj
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.cpp
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Mother.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Parent.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Daughter.cpp.obj
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Daughter.cpp
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Daughter.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Mother.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Parent.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Father.cpp.obj
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.cpp
@@ -48,6 +62,9 @@ CMakeFiles/POO2-Riviere.dir/People/Family/Parent.cpp.obj
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Son.cpp.obj
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Mother.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Parent.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Son.cpp
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Son.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
@@ -67,5 +84,13 @@ CMakeFiles/POO2-Riviere.dir/main.cpp.obj
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Boat.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Container.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Controller.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Daughter.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Mother.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Parent.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Son.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Policeman.h
+ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Robber.h
  C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/main.cpp

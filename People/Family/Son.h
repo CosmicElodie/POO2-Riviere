@@ -11,9 +11,9 @@
 #include "Child.h"
 
 class Son : public Child {
-private:
+
 public:
-    Son(std::string& name, const Person & mother, const Person & father);
+    Son(const char * name, const Person * mother, const Person * father);
 };
 
 

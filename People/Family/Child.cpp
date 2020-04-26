@@ -7,7 +7,7 @@
 
 #include "Child.h"
 
-Child::Child(std::string& name, const Person* mother, const Person* father) :
+Child::Child(const char * name, const Person * mother, const Person* father) :
 Person(name), mother(mother), father(father) {}
 
 bool Child::canDrive() const {

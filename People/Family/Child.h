@@ -8,7 +8,8 @@
 #ifndef POO2_RIVIERE_CHILD_H
 #define POO2_RIVIERE_CHILD_H
 
-#include "../Person.h"
+#include "Mother.h"
+#include "Father.h"
 
 class Child : public Person{
 private :
@@ -16,7 +17,7 @@ private :
     const Person * father;
 
 public :
-    Child(std::string& name, const Person* mother, const Person* father);
+    Child(const char * name, const Person * mother, const Person * father);
 
     bool canDrive() const;
 };

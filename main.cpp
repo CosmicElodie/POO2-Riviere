@@ -4,6 +4,7 @@
 
 int main() {
 
-    Controller c();
+    Controller c;
+
     return 0;
 }

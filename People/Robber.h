@@ -12,12 +12,14 @@
 #include "Person.h"
 
 class Robber : public Person {
+private:
 
+public:
     /**
      * @brief Constructeur de la classe Robber
      * @param name : le nom du voleur
      */
-    explicit Robber(const std::string& name);
+    explicit Robber(const char * name);
 
     /**
      * Permet de savoir si le voleur peut conduire le bateau

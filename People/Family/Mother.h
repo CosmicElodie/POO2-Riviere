@@ -13,7 +13,7 @@
 class Mother : public Parent {
 private:
 public:
-    Mother(std::string& name) : Parent(name) {}
+    Mother(const char * name) : Parent(name) {}
 };
 
 

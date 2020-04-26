@@ -7,7 +7,7 @@
 
 #include "Robber.h"
 
-Robber::Robber(const std::string& name) : Person(name) {}
+Robber::Robber(const char * name) : Person(name) {}
 
 bool Robber::canDrive() const {
     return false;

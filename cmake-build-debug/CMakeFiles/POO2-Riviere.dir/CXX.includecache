@@ -6,13 +6,81 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.h
-../Person.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Bank.h
+Container.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Container.h
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Boat.h
+Bank.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Bank.h
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Container.h
+list
+-
+string
+-
+../People/Person.h
 C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
 
-C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Son.cpp
-Son.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Controller.cpp
+Controller.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Controller.h
+People/Policeman.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Policeman.h
+People/Robber.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Robber.h
+People/Family/Son.h
 C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Son.h
+People/Family/Daughter.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Daughter.h
+iostream
+-
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Controller.h
+Containers/Bank.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Bank.h
+Containers/Boat.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/Containers/Boat.h
+People/Family/Father.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.h
+People/Family/Mother.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Mother.h
+People/Family/Daughter.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Daughter.h
+People/Family/Son.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Son.h
+People/Policeman.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Policeman.h
+People/Robber.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Robber.h
+list
+-
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.h
+Mother.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Mother.h
+Father.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.h
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Daughter.h
+Child.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Child.h
+string
+-
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Father.h
+Parent.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Parent.h
+string
+-
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Mother.h
+Parent.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Parent.h
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Parent.h
+../Person.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
 
 C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Family/Son.h
 Child.h
@@ -21,4 +89,12 @@ C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/
 C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
 string
 -
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Policeman.h
+Person.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
+
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Robber.h
+Person.h
+C:/Users/Elodie/Desktop/SCHOOL/SEMESTRE 4/POO2/Laboratoires/POO2-Riviere/People/Person.h
 

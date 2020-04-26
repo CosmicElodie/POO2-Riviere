@@ -7,4 +7,5 @@
 
 #include "Daughter.h"
 
-Daughter::Daughter(std::string& name, const Person & mother, const Person & father) : Child(name, &mother, &father) {}
+Daughter::Daughter(const char * name, const Person * mother, const Person * father) :
+Child(name, mother, father) {}

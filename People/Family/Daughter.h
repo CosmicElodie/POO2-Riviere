@@ -14,10 +14,8 @@
 
 class Daughter : public Child {
 
-private:
-
 public:
-    Daughter(std::string& name, const Person & mother, const Person & father);
+    Daughter(const char * name, const Person * mother, const Person * father);
 };
 
 

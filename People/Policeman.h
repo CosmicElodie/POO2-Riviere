@@ -19,7 +19,7 @@ public:
      * @brief Constructeur de la classe Policeman
      * @param name : le nom du policier
      */
-    explicit Policeman(const std::string& name);
+    explicit Policeman(const char * name);
 
     bool canDrive() const;
 

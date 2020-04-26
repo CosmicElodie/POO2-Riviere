@@ -11,7 +11,7 @@
 #include <string>
 
 class Person {
-    friend bool operator ==(const Person& lhs, const Person& rhs) {
+    friend bool operator ==(const Person & lhs, const Person & rhs) {
         return lhs.name == rhs.name;
     }
 
@@ -29,7 +29,7 @@ public:
      * @Brief Constructeur de la classe Person
      * @param name : le nom de la personne
      */
-    explicit Person(const std::string& name) : name(name) {}
+    explicit Person(const char * name) : name(name) {}
 
     /**
      * @Brief Getter

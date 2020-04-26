@@ -15,7 +15,7 @@
 class Father: public Parent {
 
 public:
-    Father(std::string& name) : Parent(name) {}
+    Father(const char *name) : Parent(name) {}
 };
 
 

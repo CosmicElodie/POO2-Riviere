@@ -21,15 +21,29 @@ CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../Containers/Boat.h
 CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../Containers/Container.h
 CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../Controller.cpp
 CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../Controller.h
+CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Family/Child.h
+CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Family/Daughter.h
+CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Family/Father.h
+CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Family/Mother.h
+CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Family/Parent.h
+CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Family/Son.h
 CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Person.h
+CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Policeman.h
+CMakeFiles/POO2-Riviere.dir/Controller.cpp.obj: ../People/Robber.h
 
 CMakeFiles/POO2-Riviere.dir/People/Family/Child.cpp.obj: ../People/Family/Child.cpp
 CMakeFiles/POO2-Riviere.dir/People/Family/Child.cpp.obj: ../People/Family/Child.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Child.cpp.obj: ../People/Family/Father.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Child.cpp.obj: ../People/Family/Mother.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Child.cpp.obj: ../People/Family/Parent.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Child.cpp.obj: ../People/Person.h
 
 CMakeFiles/POO2-Riviere.dir/People/Family/Daughter.cpp.obj: ../People/Family/Child.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Daughter.cpp.obj: ../People/Family/Daughter.cpp
 CMakeFiles/POO2-Riviere.dir/People/Family/Daughter.cpp.obj: ../People/Family/Daughter.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Daughter.cpp.obj: ../People/Family/Father.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Daughter.cpp.obj: ../People/Family/Mother.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Daughter.cpp.obj: ../People/Family/Parent.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Daughter.cpp.obj: ../People/Person.h
 
 CMakeFiles/POO2-Riviere.dir/People/Family/Father.cpp.obj: ../People/Family/Father.cpp
@@ -47,6 +61,9 @@ CMakeFiles/POO2-Riviere.dir/People/Family/Parent.cpp.obj: ../People/Family/Paren
 CMakeFiles/POO2-Riviere.dir/People/Family/Parent.cpp.obj: ../People/Person.h
 
 CMakeFiles/POO2-Riviere.dir/People/Family/Son.cpp.obj: ../People/Family/Child.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Son.cpp.obj: ../People/Family/Father.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Son.cpp.obj: ../People/Family/Mother.h
+CMakeFiles/POO2-Riviere.dir/People/Family/Son.cpp.obj: ../People/Family/Parent.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Son.cpp.obj: ../People/Family/Son.cpp
 CMakeFiles/POO2-Riviere.dir/People/Family/Son.cpp.obj: ../People/Family/Son.h
 CMakeFiles/POO2-Riviere.dir/People/Family/Son.cpp.obj: ../People/Person.h
@@ -66,6 +83,14 @@ CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../Containers/Bank.h
 CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../Containers/Boat.h
 CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../Containers/Container.h
 CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../Controller.h
+CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Family/Child.h
+CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Family/Daughter.h
+CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Family/Father.h
+CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Family/Mother.h
+CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Family/Parent.h
+CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Family/Son.h
 CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Person.h
+CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Policeman.h
+CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../People/Robber.h
 CMakeFiles/POO2-Riviere.dir/main.cpp.obj: ../main.cpp
 

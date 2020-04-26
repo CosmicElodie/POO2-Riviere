@@ -15,7 +15,7 @@ class Parent : public Person {
 private:
 
 public:
-    Parent(std::string& name) : Person(name) {}
+    Parent(const char * name) : Person(name) {}
 
     bool canDrive() const;
 };
